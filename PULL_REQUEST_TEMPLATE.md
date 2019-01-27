@@ -6,5 +6,5 @@ Outline of the intended improvements.
 ### Description:
 Adjustment made to achieve the goal.
 
-## Oustanding:
+### Oustanding:
 Any outstanding work to be done you have become aware of.
