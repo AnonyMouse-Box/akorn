@@ -1,3 +1,5 @@
+### Contributing
+
 In all honesty as this is a personal project, I don't expect anyone else will contribute. This is more an exercise in setting aside reminders to myself about how I should approach this.
 If however on the offchance somebody does, the following will hopefully help guide them to make a good job of it:
 
