@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the akorn project
 
-You can use the [editor on GitHub](https://github.com/hogwashga/akorn/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a project in which I, C.Monkey, the current creator and owner of this repository intend to build my own kernel from scratch.
+An auspicious goal to be sure, but it is more of a learning exercise as I'd like to understand the bones of how to build my own operating system, so I might one day use those skills to improve my own life and give back to the open source community.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hogwashga/akorn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If it looks a bit sparse right now, thats because this repository is pretty new. I'm currently in the early stages of developing the understanding and requirements to build my own operating system. If you'd like something interesting to view, try [here](https://wiki.osdev.org/Main_Page). I owe those guys a lot, as I'm sure do countless others like me.
