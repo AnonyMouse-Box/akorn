@@ -1,5 +1,10 @@
-### Pull Requests
+### Title: 
 
-Your pull request should include a comment outlining a rough description of the changes that have been made, why they were made and what this adds to the project. Without a comment I am unlikely to approve the request as cannot easily justify if it is in the best interests of the project.
+# Scope:
+Outline of the intended improvements.
 
-That is all for now as the concerns of the project remain relatively simple.
+# Description:
+Adjustment made to achieve the goal.
+
+# Oustanding:
+Any outstanding work to be done you have become aware of.
