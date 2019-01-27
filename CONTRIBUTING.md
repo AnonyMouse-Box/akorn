@@ -8,6 +8,7 @@ A note on comments, both in code and out of it. Firstly plain don't be offensive
 1. Study and gain a reasonable understanding of the subject matter, the aim of the project, and the purpose to be fulfilled.
 2. Attempt to make contact with the repository owner. (I appreaciate this may be hard for those who don't know me personally, but this project is inherently personal.)
 3. Once you are able, choose a part of the project you can dedicate yourself to and provide some valuable insights.
-4. You will require an unprotected branch to add your code to, it will most likely be easier if you create yourself an individual one.
-5. Always try to leave a helpful message with each commit, this makes it easier to unpick your code later and make sense of what you did and why.
-6. When you believe your code is ready for use, submit a pull request, then sit back, relax, and prepare for the "What the hell *is* this garbage?!"
+4. You will require an unprotected branch to add your code to, it will most likely be easier if you create yourself an individual one. 
+5. Be sure to pull in regular updates from the master branch, and keep an eye on the files most relevant to your section for any changes.
+6. Always try to leave a helpful message with each commit, this makes it easier to unpick your code later and make sense of what you did and why.
+7. When you believe your code is ready for use, submit a pull request, then sit back, relax, and prepare for the "What the hell *is* this garbage?!"
