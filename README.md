@@ -1,4 +1,5 @@
 ## Welcome to the akorn project
+#### a.k.a. my homegrown organic kernel project 
 
 This is a project in which I, C.Monkey (yes that's a pseudonym, of which I have many), the current creator and owner of this repository intend to build my own kernel from scratch.
 An auspicious goal to be sure, but it is more of a learning exercise as I'd like to understand the bones of how to build my own operating system, so I might one day use those skills to improve my own life and give back to the open source community.
