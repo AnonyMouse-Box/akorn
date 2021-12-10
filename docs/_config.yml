@@ -2,4 +2,4 @@ theme: jekyll-theme-slate
 title: AKORN
 description: the Advanced Kernel Operand Relay Node 
 permalink: pretty
-show_downloads: false
+show_downloads: true
